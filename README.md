@@ -1,2 +1,2 @@
 # codeforces-exercise
-Codeforces Exercises
+Codeforces Exercises as part of my Academic program. 
