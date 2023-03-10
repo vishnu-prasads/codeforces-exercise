@@ -17,3 +17,9 @@ if 1 <= t <= 100000:
 else:
     exit()
 
+#Input = 7 			output = 3
+#Input = 1			output = 0
+#Input = 2			output = 0
+#Input = 3			output = 1
+#Input = 2000000000	output = 999999999
+#Input = 763243547	output = 763243547
