@@ -7,10 +7,9 @@ for i in range(len(word)):
     else:
         is_lower = is_lower + 1
 
-if is_upper > is_lower:
+if is_upper < is_lower or is_upper == is_lower:
+    print(word.lower())
+else:
     print(word.upper())
-elif is_upper < is_lower:
-    print(word.lower())
-else: 
-    print(word.lower())
+
 
